@@ -23,4 +23,4 @@
 - LocalStorage 기반 감정 저장 (SwiftData 사용)  
 - 사용자 맞춤 폰트 및 컬러 사용
 
-Appstroe에서 Feel back을 검색하시면 사용하실 수 있습니다!
+Appstore에서 Feel back을 검색하시면 사용하실 수 있습니다!
